@@ -1,0 +1,8 @@
+check,status,detail
+row_count_positive,True,"4,603 cleaned rows"
+unique_business_key,True,No duplicate business keys
+positive_units,True,All units sold > 0
+discount_bounds,True,Discounts between 0% and 60%
+profit_identity,True,Profit recomputed as revenue less cost
+asp_identity,True,ASP recomputed as revenue / units
+margin_identity,True,Margin recomputed as profit / revenue

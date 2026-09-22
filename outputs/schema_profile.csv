@@ -1,0 +1,14 @@
+column,dtype,missing_count,missing_pct,unique_count
+Date,object,0,0.0,13
+Month,str,0,0.0,12
+Quarter,str,0,0.0,4
+Product,str,1,0.022,8
+Category,str,0,0.0,5
+Region,str,0,0.0,5
+Customer Segment,str,0,0.0,3
+Units Sold,int64,0,0.0,228
+Revenue,float64,0,0.0,4608
+Cost,float64,0,0.0,4608
+Profit,float64,0,0.0,4608
+Discount,float64,0,0.0,4598
+Acquisition Channel,str,1,0.022,4
