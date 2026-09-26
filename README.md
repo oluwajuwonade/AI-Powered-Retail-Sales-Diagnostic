@@ -1,3 +1,10 @@
+<!-- PORTFOLIO-CONTEXT
+Oluwajuwon Adediji | Data & Quantitative Analyst | Decision Intelligence | AI-Powered Analytics
+Portfolio: https://oluwajuwonade.github.io
+-->
+
+> **Portfolio case study:** Business decision intelligence: diagnosing revenue performance from messy operational data and translating findings into actions.
+
 # AI-Powered Retail Sales Diagnostic
 
 A reusable portfolio project that explains why revenue can decline while units sold increase.
