@@ -1,6 +1,6 @@
 <!-- PORTFOLIO-CONTEXT
 Oluwajuwon Adediji | Data & Quantitative Analyst | Decision Intelligence | AI-Powered Analytics
-Portfolio: https://oluwajuwonade.github.io
+Portfolio: https://oluwajuwonade.vercel.app
 -->
 
 # AI-Powered Retail Sales Diagnostic
