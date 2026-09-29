@@ -5,7 +5,7 @@ Portfolio: https://oluwajuwonade.github.io
 
 # AI-Powered Retail Sales Diagnostic
 
-> **Business question:** Why did revenue decline despite increasing sales volume?
+> **Decision question:** Why did revenue decline despite increasing sales volume?
 
 A reproducible decision-intelligence case study that turns messy retail operating data into a quantified business diagnosis, executive narrative, and action framework.
 
@@ -58,7 +58,7 @@ The project separates:
 
 **Recommendations** — actions linked to measurable drivers.
 
-## Causal limits
+## Important limitations
 
 This is a **synthetic observational case**. Findings describe patterns in the generated data and do not establish causation. Controlled discount, pricing, and channel experiments would be required for causal attribution.
 
